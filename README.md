@@ -1,6 +1,6 @@
-# CiscoWish API
+# Latest API
 
-This is a CiscoWish API.
+This is a Latest API.
 
 Here I'm using Node.js with Express, TypeScript, MongoDB and Docker.
 
