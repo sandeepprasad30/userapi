@@ -1,0 +1,2 @@
+bin/test/users_test.js
+--reporter spec
